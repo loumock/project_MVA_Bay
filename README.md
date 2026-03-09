@@ -1,4 +1,4 @@
-# Project Bayesian Machine Learning: Bayesian Additive Regression Trees
+# Bayesian Additive Regression Trees (Bayesian Machine Learning Project, MVA)
 
 This project was realized in the master MVA.
 
